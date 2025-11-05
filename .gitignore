@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+patscanx/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Output files
+# outputs/*.png
+# outputs/*.jpg
+outputs/*.pdf
+!outputs/.gitkeep
+
+# Data files
+data/*.csv
+data/*.json
+!data/.gitkeep
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Temporary files
+temp.py
+*.tmp
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Matplotlib
+.matplotlib/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# pytest
+.pytest_cache/
+
