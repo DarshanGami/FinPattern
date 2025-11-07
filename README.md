@@ -1,4 +1,4 @@
-# Trading Pattern Detection & Visualization
+# 📈 Trading Pattern Detection & Visualization
 
 ## 🧠 Description
 
@@ -15,7 +15,7 @@ Built using Pandas and NumPy, FinPattern provides fast and accurate analysis in 
 - **Smart Market Insights:** FinPattern helps you spot potential trading opportunities more clearly, supporting smarter and more confident investment decisions.
 
 
-## Trading Patterns: Technical Overview
+## 💹 Trading Patterns: Technical Overview
 
 1. **Head & Shoulders / Inverse Head & Shoulders**  
    This pattern has three peaks — a higher middle peak (the head) and two smaller side peaks (the shoulders).  
@@ -54,7 +54,14 @@ Built using Pandas and NumPy, FinPattern provides fast and accurate analysis in 
 9. **Higher Highs & Lower Lows**  
    A series of higher highs and higher lows indicates an uptrend, while lower highs and lower lows indicate a downtrend.  
    This pattern helps confirm the strength and direction of the market trend.
+   
+## 📊 Trading Patterns Overview
 
-![Trading Patterns Overview](assets/trading-patterns.png)
+<p align="center">
+  <img src="trading-patterns.png" alt="Trading Patterns Overview" width="600">
+</p>
 
-**Happy Trading! 📈📉**
+<p align="center">
+  <b>Happy Trading!</b>
+</p>
+
