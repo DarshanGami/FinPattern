@@ -185,17 +185,6 @@ Data files directory (optional).
 
 ---
 
-## 🐍 Virtual Environment: `patscanx/`
-
-Python virtual environment (gitignored).
-
-- **Purpose**: Isolated Python environment
-- **Activation**: `source patscanx/bin/activate`
-- **Deactivation**: `deactivate`
-- **Recreation**: `python3 -m venv patscanx`
-
----
-
 ## 🔄 Workflow
 
 ### Typical Usage Flow
